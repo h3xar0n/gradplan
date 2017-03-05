@@ -143,6 +143,11 @@ footer {
     text-align: center;
 }
 
+/*Job Thumbnails*/
+.col-sm-2 .img-responsive {
+    vertical-align: center;
+}
+
 /*Tables*/
 
 strong {
