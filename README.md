@@ -4,6 +4,7 @@
 
 ### jobsindex.html
 * Enter initial 8 jobs, repeat 3 times
+* Phone friendly version is column from jobs.html well style
 
 ## Students
 
