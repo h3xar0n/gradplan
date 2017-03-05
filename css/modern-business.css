@@ -253,6 +253,12 @@ tbody:hover tr:hover td {
     text-shadow: 0 1px 0 #fff;
 }
 
+/*Job Posting Chat*/
+
+.media-object {
+    border-radius: 50%;
+}
+
 /*Override*/
 @media (max-width: 767px) {
     .navbar-nav .open .dropdown-menu {

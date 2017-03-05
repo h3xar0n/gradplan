@@ -2,12 +2,6 @@
 
 ## Jobs
 
-### jobpost.html
-* Strategic Account Manager image
-* Strategic Account Manager description
-* One feedback comment from school (w/img)
-* One response from company (w/img)
-
 ### jobsindex.html
 * Enter initial 8 jobs, repeat 3 times
 
