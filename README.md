@@ -33,6 +33,9 @@
 
 # Icebox
 
+## Index
+* Fix ugly bootstrap for 3 columns on landing
+
 ## Jobs
 
 ### jobposts
