@@ -2,10 +2,6 @@
 
 ## Students
 
-### studentsindex.html
-* 4 entries repeated
-* Phone friendly version is column from index.html style, image and name
-
 ### student.html
 * One sample profile
 * Change "Positions Available" -> "Matching Positions"
