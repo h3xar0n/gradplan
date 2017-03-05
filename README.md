@@ -2,9 +2,6 @@
 
 ## Students
 
-### images/students
-* 4 profile images (750 x 450), (500 x 300), (64 x 64)
-
 ### index.html
 * in "Our Students", 4 student profile images in circles, names
 
