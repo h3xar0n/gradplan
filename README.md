@@ -2,9 +2,6 @@
 
 ## Students
 
-### index.html
-* in "Our Students", 4 student profile images in circles, names
-
 ### studentsindex.html
 * 4 entries repeated
 * Phone friendly version is column from index.html style, image and name

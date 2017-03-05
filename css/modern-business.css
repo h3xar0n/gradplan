@@ -79,6 +79,12 @@ h1, h2, h4 {
     color: black;
 }
 
+/*Preview Columns*/
+
+.panel-default {
+    min-height: 416px;
+}
+
 /* Search Bar on Index Pages */
 
 .index-search {
