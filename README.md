@@ -1,16 +1,5 @@
 # UI PROTOTYPE Gameplan Grad Jobs
 
-## Students
-
-### student.html
-* One sample profile
-* Change "Positions Available" -> "Matching Positions"
-* Pick 3 jobs, elim next 3 boxes
-
-### event-sample.html
-* Change "Related Events" -> "Matching Students"
-* 4 student images 
-
 ## Events
 
 ### images/events
