@@ -2,10 +2,6 @@
 
 ## Jobs
 
-### images/jobs
-* 64 x 64 cropped image for Spinoza U
-* 64 x 64 image for Bromide Solutions
-
 ### jobpost.html
 * Strategic Account Manager image
 * Strategic Account Manager description
