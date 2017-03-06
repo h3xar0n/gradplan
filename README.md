@@ -1,22 +1,5 @@
 # UI PROTOTYPE Gameplan Grad Jobs
 
-## Events
-
-### events.html
-* 5 events: 700 x 300 event images, names, descriptions
-
-### index.html
-* in column, names and dates of events 1, 2, 3
-* in feature area, description of event 1
-* call to action: invite all matching students
-
-### event-sample.html
-* 2 additional 750 x 500 images for carousel
-* copy description from index
-* add the call to action button from index
-
-# Icebox
-
 ## Index
 * Fix ugly bootstrap for 3 columns on landing
 
