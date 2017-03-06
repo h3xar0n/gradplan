@@ -2,11 +2,6 @@
 
 ## Events
 
-### images/events
-* 1 750 x 450 for index, with 700 x 300 and 750 x 500 versions
-* 2 additional 750 x 500 images for carousel for top event
-* 4 additional 700 x 300 event images
-
 ### events.html
 * 5 events: 700 x 300 event images, names, descriptions
 
